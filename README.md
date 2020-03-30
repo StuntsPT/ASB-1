@@ -1,5 +1,3 @@
-# ASB
-
 # What is this?
 This is a repository for the homeworks of the curricular unit ASB (Análise de Sequências Biológicas) of my Bioinformatics degree 
 
